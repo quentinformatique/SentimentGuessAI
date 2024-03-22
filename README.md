@@ -23,7 +23,7 @@ Console.WriteLine($"Text: {sampleData.Col0}\nSentiment: {sentiment}");
 
 Output : 
 
-```bash
+```
 Text: C# is such an amazing language !
 Sentiment: Positive
 ```
